@@ -16,14 +16,14 @@
 
 ## 🚀 About Me
 
-> 🛠️ Building **free AI-powered tools** for students, freelancers & businesses worldwide — **no login, no cost, no limits.**
+> 🛠️ Building **free AI-powered tools** for students, freelancers & businesses worldwide **no login, no cost, no limits.**
 
-- 🔭 Currently working on **[NexaTools.io](https://www.nexatools.io)** — 7 free tools & growing
+- 🔭 Currently working on **[NexaTools.io](https://www.nexatools.io)** 7 free tools & growing
 - 🌱 Exploring **AI integrations, automation & smart web tools**
 - 👯 Open to collaborate on **free tools for students & freelancers**
 - 💬 Ask me about **Resume Builder, QR Codes, Logo Maker, Invoice Generator**
 - 📫 Reach me: **[nexatools.io/contact](https://www.nexatools.io/contact.html)**
-- ⚡ Fun fact: **All 7 tools are 100% free — no login, no watermark, no tricks!**
+- ⚡ Fun fact: **All 7 tools are 100% free no login, no watermark, no tricks!**
 - 🌍 Serving users **Worldwide** from Pakistan 🇵🇰
 
 ---
@@ -72,4 +72,4 @@
 ---
 
 ## ✨ Why NexaTools?
---- ## 🌐 Connect With Us <div align="center"> [![Website](https://img.shields.io/badge/🌐_Website-nexatools.io-00e5ff?style=for-the-badge)](https://www.nexatools.io) [![Contact](https://img.shields.io/badge/📬_Contact-Us-a78bfa?style=for-the-badge)](https://www.nexatools.io/contact.html) [![Resume Tool](https://img.shields.io/badge/📄_Resume-Builder-34d399?style=for-the-badge)](https://www.nexatools.io/resume-builder.html) [![Invoice Tool](https://img.shields.io/badge/🧾_Invoice-Generator-f472b6?style=for-the-badge)](https://www.nexatools.io/invoice-generator.html) </div> --- <div align="center"> ### 🌟 Support NexaTools **If our tools helped you — please ⭐ star this repo!** It helps more people discover free tools worldwide. ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg) Made with ❤️ for everyone, worldwide 🌍 | Pakistan 🇵🇰 </div>
+--- ## 🌐 Connect With Us <div align="center"> [![Website](https://img.shields.io/badge/🌐_Website-nexatools.io-00e5ff?style=for-the-badge)](https://www.nexatools.io) [![Contact](https://img.shields.io/badge/📬_Contact-Us-a78bfa?style=for-the-badge)](https://www.nexatools.io/contact.html) [![Resume Tool](https://img.shields.io/badge/📄_Resume-Builder-34d399?style=for-the-badge)](https://www.nexatools.io/resume-builder.html) [![Invoice Tool](https://img.shields.io/badge/🧾_Invoice-Generator-f472b6?style=for-the-badge)](https://www.nexatools.io/invoice-generator.html) </div> --- <div align="center"> ### 🌟 Support NexaTools **If our tools helped you please ⭐ star this repo!** It helps more people discover free tools worldwide. ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg) Made with ❤️ for everyone, worldwide 🌍 | Pakistan 🇵🇰 </div>
