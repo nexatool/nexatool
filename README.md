@@ -75,7 +75,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nexatool&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexatool&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nexatool&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&hide=contribs" width="48%" />
 
 </div>
 
@@ -111,4 +111,3 @@
 Made with ❤️ by Rashid & Ayesha **NexaStudio** 🇵🇰
 
 </div>
-
